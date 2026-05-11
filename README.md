@@ -11,8 +11,8 @@ Prazo: 11/05/2026 às 23:59, horário de Fortaleza.
 
 Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi ou não tenho certeza.
 
-- vetores, matrizes e produto escalar: lembro parcialmente
-- média, desvio padrão e correlação: lembro parcialmente
+- vetores, matrizes e produto escalar: >lembro parcialmente
+- média, desvio padrão e correlação:> lembro parcialmente
 - probabilidade condicional e Teorema de Bayes: lembro parcialmente
 - regressão linear: lembro parcialmente
 - classificação supervisionada: não tenho certeza
