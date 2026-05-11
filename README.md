@@ -34,8 +34,8 @@ Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi
 
 Explique, em 8 a 12 linhas:
 
-1. quais desses tópicos você lembra de ter trabalhado na disciplina;
----
+> 1. quais desses tópicos você lembra de ter trabalhado na disciplina;
+
 Todos estes tópicos foram trabalhados, porém a sensação que tenho é que foram trabalhados em graus diferentes. Levando em conta a sensação de aprendizado que tive, e associando ao modelo Aula + Estudos dirigidos, classifiquei desta forma:**
 
 Sensação de ter sido bem trabalhado nas atividades:
@@ -68,31 +68,28 @@ Obs: Confesso que não estive presente nesta aula específica, porém me informe
 - classificação supervisionada
 - normalização ou padronização de dados (tocamos nesse ponto em alguns outros momentos em outras aulas, mas se me recordo bem, nada muito técnico, e sim o fato de ser necessário para a criação de bons modelos).
 - árvore de decisão
----
 
-2. quais atividades ou exemplos você lembra;
----
+
+> 2. quais atividades ou exemplos você lembra;
 Acredito que a resposta da pergunta 1 também responde a esta.
----
 
-3. o que você conseguiu fazer com autonomia;
----
+
+> 3. o que você conseguiu fazer com autonomia;
 Os diversos tópicos no estilo "Referencial Teórico" demandados nas atividades para serem pesquisados e descorridos foram de grande ajuda para compreender certos temas. É claro que, pelo fato de serem atividades em grupo, nem todos os tópicos foram estudados com o mesmo afinco por mim (a saber, os que foram desenvolvidos por meus colegas). Ainda assim, estes me forçaram entender mais alguns temas.
 
 A parte de implementação das atividades já não foi tão autônoma. Uma contextualização rápida: em se tratando de implementações e programação com uso de modelos de IA, tivemos alguns exemplos na disciplina de IA no período anterior (disciplina esta em que, ao meu ver, se teve pouco aproveitamento), e também alguns materiais (livros) fornecidos pelo professor já dessa disciplina de Aprendizado de Máquina: um específico sobre a linguagem Python e outros sobre Machine Learning com alguns snippets em Python.
 
 Dito isso, não me achei suficientemente seguro para conseguir realizar as atividades que envolviam implementação sozinho, por isso contei com a ajuda da IA, da seguinte forma: Entendia o que havia sido solicitado na atividade, implementava o código com IA, estudava o código linha a linha tentando compreender tanto a sintaxe quanto a lógica, fazia testes, e por fim correções. 
----
 
-4. o que você só conseguiu fazer seguindo roteiro;
----
+
+> 4. o que você só conseguiu fazer seguindo roteiro;
+
 Complementando o que já relatei na pergunta anterior, a última atividade em específico (atividade 6) foi um verdadeiro desafio, pois muitos tópicos cobrados eram novos, então havia a dificuldade maior de primeiro compreender os conceitos para depois entender como eram implementados estes conceitos dentro do código. Utilizei IA extensivamente e mesmo assim foi muito difícil entender tudo, mesmo depois de apresentar o trabalho em sala.
----
 
-5. qual assunto precisa ser retomado com mais urgência.
----
+
+> 5. qual assunto precisa ser retomado com mais urgência.
+
 Uma sugestão: retomar a partir de Classificação (Regressão Logística, KNN, Árvores, etc). Acredito que seja o passo ideal depois de termos visto Regressão Linear.
----
 
 ## 3. Conceitos essenciais
 
