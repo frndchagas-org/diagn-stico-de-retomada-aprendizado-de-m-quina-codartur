@@ -92,6 +92,7 @@ Complementando o que já relatei na pergunta anterior, a última atividade em es
 > 5. qual assunto precisa ser retomado com mais urgência.
 
 Uma sugestão: retomar a partir de Classificação (Regressão Logística, KNN, Árvores, etc). Acredito que seja o passo ideal depois de termos visto Regressão Linear.
+Se possível, revisar também Métricas, validação de modelos e pré-processamento de dados.
 
 ## 3. Conceitos essenciais
 
@@ -125,36 +126,70 @@ Se não conseguir terminar tudo, registre até onde chegou e qual erro apareceu.
 Cole aqui os principais resultados do seu código.
 
 ```text
+Features: ['mean radius' 'mean texture' 'mean perimeter' 'mean area' 'mean smoothness'] ...
+Classes: ['malignant' 'benign']
+Quantidade de exemplos: 569
+Quantidade de features: 30
 
+=== Regressão logística ===
+Acurácia treino: 0.958
+Acurácia teste: 0.958
+Precisão teste: 0.947
+Recall teste: 0.989
+F1-score teste: 0.967
+Matriz de confusão:
+[[48  5]
+ [ 1 89]]
+ 
+Probabilidades das 5 primeiras amostras de teste:
+[[0.01851079 0.98148921]
+ [0.99816902 0.00183098]
+ [0.17664237 0.82335763]
+ [0.23384359 0.76615641]
+ [0.19969055 0.80030945]]
+
+=== Árvore de decisão ===
+Acurácia treino: 1.000
+Acurácia teste: 0.923
+Precisão teste: 0.954
+Recall teste: 0.922
+F1-score teste: 0.938
+Matriz de confusão:
+[[49  4]
+ [ 7 83]]
+Probabilidades das 5 primeiras amostras de teste:
+[[0. 1.]
+ [1. 0.]
+ [1. 0.]
+ [0. 1.]
+ [0. 1.]]
+
+Obs: o código já estava pronto, sem TODOs.
 ```
 
 ### Interpretação
 
 Qual modelo generalizou melhor? Explique usando as métricas e a comparação entre treino e teste.
 
-Resposta:
+Resposta: ***Regressão logística porque teve F1-Score maior.***
 
 ## 5. Probabilidade e interpretação
 
 Escolha um dos modelos treinados e responda:
 
-1. O modelo produz probabilidade com `predict_proba()`?
-2. O que significa uma probabilidade alta para uma classe?
-3. Probabilidade alta garante que a previsão está correta? Explique.
-4. Em um problema real, qual seria o risco de confiar cegamente nessa previsão?
-
-Resposta:
+1. O modelo produz probabilidade com `predict_proba()` ***Acredito que sim?***
+2. O que significa uma probabilidade alta para uma classe? ***Não sei responder***
+3. Probabilidade alta garante que a previsão está correta? Explique. ***Não sei responder***
+4. Em um problema real, qual seria o risco de confiar cegamente nessa previsão? ***Não sei responder***
 
 ## 6. Generalização
 
 Compare treino e teste:
 
-1. Há sinal de overfitting?
-2. Há sinal de underfitting?
-3. O que você tentaria mudar para melhorar o resultado?
-4. O que você precisaria estudar melhor para responder com mais segurança?
-
-Resposta:
+1. Há sinal de overfitting? ***Na árvore de decisão sim, pela discrepância de resultados de treino e teste.***
+2. Há sinal de underfitting? ***Não sei responder***
+3. O que você tentaria mudar para melhorar o resultado? ***Não sei responder***
+4. O que você precisaria estudar melhor para responder com mais segurança? Métricas, validação de modelos e pré-processamento de dados.
 
 ## 7. Ponto de dificuldade
 
@@ -165,17 +200,20 @@ Escolha um tópico da lista inicial e escreva:
 3. que tipo de explicação ajudaria: exemplo no quadro, notebook guiado, exercício curto, revisão matemática, visualização ou projeto pequeno.
 
 Resposta:
+1. Classificação supervisionada - Entendo superficialmente o conceito mas não tudo que ele abrange e todos os métodos e técnicas utilizadas.
+2. Ainda estou confuso à respeito das divisões, quais são os tipos de algoritmos, onde e como são aplicados, etc. Talvez uma contextualização maior ajude. No geral, a sensação que eu tenho do conteúdo de IA é que são muitos tópicos "soltos", e eu ainda não consegui categorizar todos e organizá-los completamente de uma maneira que fizesse sentido na minha cabeça.
+3. Exemplo no quadro/slide e visualização.
 
 ## 8. Uso de IA, se houver
 
 Se você usou IA depois da primeira tentativa, registre:
 
 ```text
-Pergunta feita:
-Resumo da resposta:
-Como eu verifiquei:
-O que eu alterei na minha resposta:
-O que ainda não entendi:
+Pergunta feita: Utilizei para verificar se tinha rodado o código corretamente na minha máquina.
+Resumo da resposta: Ela confirmou que estava tudo certo e não faltavam TODOs
+Como eu verifiquei: A saída do código veio completa.
+O que eu alterei na minha resposta: Não foi necessário.
+O que ainda não entendi: Certas partes do código.
 ```
 
 ## Submissão no Moodle
