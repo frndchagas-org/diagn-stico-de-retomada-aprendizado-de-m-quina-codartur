@@ -11,24 +11,24 @@ Prazo: 11/05/2026 às 23:59, horário de Fortaleza.
 
 Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi ou não tenho certeza.
 
-- vetores, matrizes e produto escalar: >lembro parcialmente
-- média, desvio padrão e correlação:> lembro parcialmente
-- probabilidade condicional e Teorema de Bayes: lembro parcialmente
-- regressão linear: lembro parcialmente
-- classificação supervisionada: não tenho certeza
-- treino, teste e validação: lembro bem
-- normalização ou padronização de dados: lembro parcialmente
-- KNN: não lembro
-- árvore de decisão: lembro parcialmente
-- matriz de confusão: lembro parcialmente
-- acurácia, precisão, recall e F1-score: lembro parcialmente
-- overfitting e underfitting: lembro bem
-- validação cruzada: lembro parcialmente
-- Random Forest: lembro parcialmente
-- XGBoost ou boosting: lembro parcialmente
-- `predict_proba()`: lembro parcialmente
-- SQL/ETL aplicado a dados: lembro parcialmente
-- simulação de Monte Carlo: lembro parcialmente
+- vetores, matrizes e produto escalar: **lembro parcialmente**
+- média, desvio padrão e correlação: **lembro parcialmente**
+- probabilidade condicional e Teorema de Bayes: **lembro parcialmente**
+- regressão linear: **lembro parcialmente**
+- classificação supervisionada: **não tenho certeza**
+- treino, teste e validação: **lembro bem**
+- normalização ou padronização de dados: **lembro parcialmente**
+- KNN: **não lembro**
+- árvore de decisão: **lembro parcialmente**
+- matriz de confusão: **lembro parcialmente**
+- acurácia, precisão, recall e F1-score: **lembro parcialmente**
+- overfitting e underfitting: **lembro bem**
+- validação cruzada: **lembro parcialmente**
+- Random Forest: **lembro parcialmente**
+- XGBoost ou boosting: **lembro parcialmente**
+- `predict_proba()`: **lembro parcialmente**
+- SQL/ETL aplicado a dados: **lembro parcialmente**
+- simulação de Monte Carlo: **lembro parcialmente**
 
 ## 2. O que foi trabalhado antes
 
@@ -36,7 +36,7 @@ Explique, em 8 a 12 linhas:
 
 1. quais desses tópicos você lembra de ter trabalhado na disciplina;
 
-Todos estes tópicos foram trabalhados, porém a sensação que tenho é que foram trabalhados em graus diferentes. Levando em conta a sensação de aprendizado que tive, e associando ao modelo Aula + Estudos dirigidos, classifiquei desta forma:
+> Todos estes tópicos foram trabalhados, porém a sensação que tenho é que foram trabalhados em graus diferentes. Levando em conta a sensação de aprendizado que tive, e associando ao modelo Aula + Estudos dirigidos, classifiquei desta forma:
 
 Sensação de ter sido bem trabalhado nas atividades:
 (Aqui, entender que muitas demandaram dos alunos estudos e pesquisas para entender e escrever sobre, e a sensação é de ter visto "mais sobre")
