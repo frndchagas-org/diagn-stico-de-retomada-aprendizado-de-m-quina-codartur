@@ -71,10 +71,12 @@ Obs: Confesso que não estive presente nesta aula específica, porém me informe
 
 
 > 2. quais atividades ou exemplos você lembra;
+
 Acredito que a resposta da pergunta 1 também responde a esta.
 
 
 > 3. o que você conseguiu fazer com autonomia;
+
 Os diversos tópicos no estilo "Referencial Teórico" demandados nas atividades para serem pesquisados e descorridos foram de grande ajuda para compreender certos temas. É claro que, pelo fato de serem atividades em grupo, nem todos os tópicos foram estudados com o mesmo afinco por mim (a saber, os que foram desenvolvidos por meus colegas). Ainda assim, estes me forçaram entender mais alguns temas.
 
 A parte de implementação das atividades já não foi tão autônoma. Uma contextualização rápida: em se tratando de implementações e programação com uso de modelos de IA, tivemos alguns exemplos na disciplina de IA no período anterior (disciplina esta em que, ao meu ver, se teve pouco aproveitamento), e também alguns materiais (livros) fornecidos pelo professor já dessa disciplina de Aprendizado de Máquina: um específico sobre a linguagem Python e outros sobre Machine Learning com alguns snippets em Python.
