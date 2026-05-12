@@ -99,7 +99,6 @@ Se possível, revisar também Métricas, validação de modelos e pré-processam
 Responda com suas palavras e dê um exemplo simples.
 
 1. O que é aprendizado supervisionado? ***Aprendizado que conta com rótulos ou "respostas".***
-1. O que é aprendizado supervisionado? ***Aprendizado que conta com rótulos ou "respostas".***
 2. O que é uma tarefa de classificação? ***Uma tarefa que busca separar em grupos determinado conjunto de dados baseado em características ou features.***
 3. O que são features e target? ***Features são características que os dados podem ter. Target são features que se deseja prever.***
 4. Para que serve separar treino e teste? ***Para não enviesar o modelo com informações que ele já viu. Não teríamos resultados fidedignos ou realmente "às cegas" se utilizássemos os dados do teste no treinamento.***
@@ -179,7 +178,7 @@ Escolha um dos modelos treinados e responda:
 
 1. O modelo produz probabilidade com `predict_proba()` ***Acredito que sim?***
 2. O que significa uma probabilidade alta para uma classe? ***Não sei responder***
-3. Probabilidade alta garante que a previsão está correta? Explique. ***Não sei responder***
+3. Probabilidade alta garante que a previsão está correta? Explique. ***Nem sempre***
 4. Em um problema real, qual seria o risco de confiar cegamente nessa previsão? ***Não sei responder***
 
 ## 6. Generalização
