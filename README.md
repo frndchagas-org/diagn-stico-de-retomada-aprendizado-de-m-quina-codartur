@@ -38,7 +38,7 @@ Explique, em 8 a 12 linhas:
 
 Todos estes tópicos foram trabalhados, porém a sensação que tenho é que foram trabalhados em graus diferentes. Levando em conta a sensação de aprendizado que tive, e associando ao modelo Aula + Estudos dirigidos, classifiquei desta forma:
 
-**->Sensação de ter sido bem trabalhado nas atividades:**
+**->Sensação de ter sido bem trabalhado nas atividades:**  
 (Aqui, entender que muitas demandaram dos alunos estudos e pesquisas para entender e escrever sobre, e a sensação é de ter visto "mais sobre")
 - vetores, matrizes e produto escalar
 - média, desvio padrão e correlação
@@ -47,7 +47,7 @@ Todos estes tópicos foram trabalhados, porém a sensação que tenho é que for
 - overfitting e underfitting
 - KNN
 
-**->Sensação de ter sido trabalhado superficialmente nas atividades:**
+**->Sensação de ter sido trabalhado superficialmente nas atividades:**  
 (Buscando na memória, acredito que estes temas não requereram explicação teórica por parte dos alunos, mas sim aplicação prática direta em uma atividade, produzindo  uma sensação de conhecimento "menos consolidado" do que os citados anteriormente).
 - validação cruzada
 - Random Forest
@@ -57,12 +57,12 @@ Todos estes tópicos foram trabalhados, porém a sensação que tenho é que for
 - `predict_proba()`
 - matriz de confusão
 
-**->Sensação de ter sido trabalhado bem durante as aulas e atividades:**
+**->Sensação de ter sido trabalhado bem durante as aulas e atividades:**  
 (Foram temas recorrentes em pelo menos duas aulas, além de duas atividades — uma delas não está no compêndio que enviei ao senhor pelo fato de ter sido uma atividade em sala (a única) — portanto acredito terem sido os temas mais bem cobertos da lista).
 - regressão linear
 - treino, teste e validação
 
-**->Sensação de ter sido trabalhado superficialmente durante as aulas:**
+**->Sensação de ter sido trabalhado superficialmente durante as aulas:**  
 (Foram temas apresentados e discorridos superficialmente em uma única aula, portanto acredito que não tiveram grande absorção pela turma)
 Obs: Confesso que não estive presente nesta aula específica, porém me informei com outros colegas.
 - classificação supervisionada
@@ -199,10 +199,8 @@ Escolha um tópico da lista inicial e escreva:
 3. que tipo de explicação ajudaria: exemplo no quadro, notebook guiado, exercício curto, revisão matemática, visualização ou projeto pequeno.
 
 ***Resposta:***
-***1. Classificação supervisionada - Entendo superficialmente o conceito mas não tudo que ele abrange e todos os métodos e técnicas utilizadas.***
-
-***2. Ainda estou confuso à respeito das divisões, quais são os tipos de algoritmos, onde e como são aplicados, etc. Talvez uma contextualização maior ajude. No geral, a sensação que eu tenho do conteúdo de IA é que são muitos tópicos "soltos", e eu ainda não consegui categorizar todos e organizá-los completamente de uma maneira que fizesse sentido na minha cabeça.***
-
+***1. Classificação supervisionada - Entendo superficialmente o conceito mas não tudo que ele abrange e todos os métodos e técnicas utilizadas.***  
+***2. Ainda estou confuso à respeito das divisões, quais são os tipos de algoritmos, onde e como são aplicados, etc. Talvez uma contextualização maior ajude. No geral, a sensação que eu tenho do conteúdo de IA é que são muitos tópicos "soltos", e eu ainda não consegui categorizar todos e organizá-los completamente de uma maneira que fizesse sentido na minha cabeça.***  
 ***3. Exemplo no quadro/slide e visualização.***
 
 ## 8. Uso de IA, se houver
