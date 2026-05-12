@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/ARkoM8Jo)
 # Diagnóstico de retomada - Aprendizado de Máquina
 
 Esta atividade serve para mapear o que você já domina em Aprendizado de Máquina depois das atividades anteriores da disciplina.
@@ -10,45 +11,99 @@ Prazo: 11/05/2026 às 23:59, horário de Fortaleza.
 
 Marque cada tópico como: lembro bem, lembro parcialmente, não lembro, nunca vi ou não tenho certeza.
 
-- vetores, matrizes e produto escalar:
-- média, desvio padrão e correlação:
-- probabilidade condicional e Teorema de Bayes:
-- regressão linear:
-- classificação supervisionada:
-- treino, teste e validação:
-- normalização ou padronização de dados:
-- KNN:
-- árvore de decisão:
-- matriz de confusão:
-- acurácia, precisão, recall e F1-score:
-- overfitting e underfitting:
-- validação cruzada:
-- Random Forest:
-- XGBoost ou boosting:
-- `predict_proba()`:
-- SQL/ETL aplicado a dados:
-- simulação de Monte Carlo:
+- vetores, matrizes e produto escalar: **lembro parcialmente**
+- média, desvio padrão e correlação: **lembro parcialmente**
+- probabilidade condicional e Teorema de Bayes: **lembro parcialmente**
+- regressão linear: **lembro parcialmente**
+- classificação supervisionada: **não tenho certeza**
+- treino, teste e validação: **lembro bem**
+- normalização ou padronização de dados: **lembro parcialmente**
+- KNN: **não lembro**
+- árvore de decisão: **lembro parcialmente**
+- matriz de confusão: **lembro parcialmente**
+- acurácia, precisão, recall e F1-score: **lembro parcialmente**
+- overfitting e underfitting: **lembro bem**
+- validação cruzada: **lembro parcialmente**
+- Random Forest: **lembro parcialmente**
+- XGBoost ou boosting: **lembro parcialmente**
+- `predict_proba()`: **lembro parcialmente**
+- SQL/ETL aplicado a dados: **lembro parcialmente**
+- simulação de Monte Carlo: **lembro parcialmente**
 
 ## 2. O que foi trabalhado antes
 
 Explique, em 8 a 12 linhas:
 
-1. quais desses tópicos você lembra de ter trabalhado na disciplina;
-2. quais atividades ou exemplos você lembra;
-3. o que você conseguiu fazer com autonomia;
-4. o que você só conseguiu fazer seguindo roteiro;
-5. qual assunto precisa ser retomado com mais urgência.
+> 1. quais desses tópicos você lembra de ter trabalhado na disciplina;
+
+Todos estes tópicos foram trabalhados, porém a sensação que tenho é que foram trabalhados em graus diferentes. Levando em conta a sensação de aprendizado que tive, e associando ao modelo Aula + Estudos dirigidos, classifiquei desta forma:
+
+**->Sensação de ter sido bem trabalhado nas atividades:**  
+(Aqui, entender que muitas demandaram dos alunos estudos e pesquisas para entender e escrever sobre, e a sensação é de ter visto "mais sobre")
+- vetores, matrizes e produto escalar
+- média, desvio padrão e correlação
+- probabilidade condicional e Teorema de Bayes
+- acurácia, precisão, recall e F1-score
+- overfitting e underfitting
+- KNN
+
+**->Sensação de ter sido trabalhado superficialmente nas atividades:**  
+(Buscando na memória, acredito que estes temas não requereram explicação teórica por parte dos alunos, mas sim aplicação prática direta em uma atividade, produzindo  uma sensação de conhecimento "menos consolidado" do que os citados anteriormente).
+- validação cruzada
+- Random Forest
+- XGBoost ou boosting
+- SQL/ETL aplicado a dados
+- simulação de Monte Carlo
+- `predict_proba()`
+- matriz de confusão
+
+**->Sensação de ter sido trabalhado bem durante as aulas e atividades:**  
+(Foram temas recorrentes em pelo menos duas aulas, além de duas atividades — uma delas não está no compêndio que enviei ao senhor pelo fato de ter sido uma atividade em sala (a única) — portanto acredito terem sido os temas mais bem cobertos da lista).
+- regressão linear
+- treino, teste e validação
+
+**->Sensação de ter sido trabalhado superficialmente durante as aulas:**  
+(Foram temas apresentados e discorridos superficialmente em uma única aula, portanto acredito que não tiveram grande absorção pela turma)
+Obs: Confesso que não estive presente nesta aula específica, porém me informei com outros colegas.
+- classificação supervisionada
+- normalização ou padronização de dados (tocamos nesse ponto em alguns outros momentos em outras aulas, mas se me recordo bem, nada muito técnico, e sim o fato de ser necessário para a criação de bons modelos).
+- árvore de decisão
+
+
+> 2. quais atividades ou exemplos você lembra;
+
+Acredito que a resposta da pergunta 1 também responde a esta.
+
+
+> 3. o que você conseguiu fazer com autonomia;
+
+Os diversos tópicos no estilo "Referencial Teórico" demandados nas atividades para serem pesquisados e descorridos foram de grande ajuda para compreender certos temas. É claro que, pelo fato de serem atividades em grupo, nem todos os tópicos foram estudados com o mesmo afinco por mim (a saber, os que foram desenvolvidos por meus colegas). Ainda assim, estes me forçaram entender mais alguns temas.
+
+A parte de implementação das atividades já não foi tão autônoma. Uma contextualização rápida: em se tratando de implementações e programação com uso de modelos de IA, tivemos alguns exemplos na disciplina de IA no período anterior (disciplina esta em que, ao meu ver, se teve pouco aproveitamento), e também alguns materiais (livros) fornecidos pelo professor já dessa disciplina de Aprendizado de Máquina: um específico sobre a linguagem Python e outros sobre Machine Learning com alguns snippets em Python.
+
+Dito isso, não me achei suficientemente seguro para conseguir realizar as atividades que envolviam implementação sozinho, por isso contei com a ajuda da IA, da seguinte forma: Entendia o que havia sido solicitado na atividade, implementava o código com IA, estudava o código linha a linha tentando compreender tanto a sintaxe quanto a lógica, fazia testes, e por fim correções. 
+
+
+> 4. o que você só conseguiu fazer seguindo roteiro;
+
+Complementando o que já relatei na pergunta anterior, a última atividade em específico (atividade 6) foi um verdadeiro desafio, pois muitos tópicos cobrados eram novos, então havia a dificuldade maior de primeiro compreender os conceitos para depois entender como eram implementados estes conceitos dentro do código. Utilizei IA extensivamente e mesmo assim foi muito difícil entender tudo, mesmo depois de apresentar o trabalho em sala.
+
+
+> 5. qual assunto precisa ser retomado com mais urgência.
+
+Uma sugestão: retomar a partir de Classificação (Regressão Logística, KNN, Árvores, etc). Acredito que seja o passo ideal depois de termos visto Regressão Linear.
+Se possível, revisar também Métricas, validação de modelos e pré-processamento de dados.
 
 ## 3. Conceitos essenciais
 
 Responda com suas palavras e dê um exemplo simples.
 
-1. O que é aprendizado supervisionado?
-2. O que é uma tarefa de classificação?
-3. O que são features e target?
-4. Para que serve separar treino e teste?
-5. O que é overfitting?
-6. Por que acurácia pode ser uma métrica enganosa?
+1. O que é aprendizado supervisionado? ***Aprendizado que conta com rótulos ou "respostas".***
+2. O que é uma tarefa de classificação? ***Uma tarefa que busca separar em grupos determinado conjunto de dados baseado em características ou features.***
+3. O que são features e target? ***Features são características que os dados podem ter. Target são features que se deseja prever.***
+4. Para que serve separar treino e teste? ***Para não enviesar o modelo com informações que ele já viu. Não teríamos resultados fidedignos ou realmente "às cegas" se utilizássemos os dados do teste no treinamento.***
+5. O que é overfitting? ***Quando o modelo aprendeu "demais" a base de dados utilizada no treinamento. Ou seja, ele praticamente decorou o dataset e não consegue generalizar ou "ver além" daquele conjunto de informações. Basicamente não funciona com informações novas que não tenha visto antes.***
+6. Por que acurácia pode ser uma métrica enganosa? ***Eu tinha uma noção do porquê há algumas semanas atrás, mas não me recordo mais.***
 
 ## 4. Diagnóstico prático com Scikit-Learn
 
@@ -70,36 +125,70 @@ Se não conseguir terminar tudo, registre até onde chegou e qual erro apareceu.
 Cole aqui os principais resultados do seu código.
 
 ```text
+Features: ['mean radius' 'mean texture' 'mean perimeter' 'mean area' 'mean smoothness'] ...
+Classes: ['malignant' 'benign']
+Quantidade de exemplos: 569
+Quantidade de features: 30
 
+=== Regressão logística ===
+Acurácia treino: 0.958
+Acurácia teste: 0.958
+Precisão teste: 0.947
+Recall teste: 0.989
+F1-score teste: 0.967
+Matriz de confusão:
+[[48  5]
+ [ 1 89]]
+ 
+Probabilidades das 5 primeiras amostras de teste:
+[[0.01851079 0.98148921]
+ [0.99816902 0.00183098]
+ [0.17664237 0.82335763]
+ [0.23384359 0.76615641]
+ [0.19969055 0.80030945]]
+
+=== Árvore de decisão ===
+Acurácia treino: 1.000
+Acurácia teste: 0.923
+Precisão teste: 0.954
+Recall teste: 0.922
+F1-score teste: 0.938
+Matriz de confusão:
+[[49  4]
+ [ 7 83]]
+Probabilidades das 5 primeiras amostras de teste:
+[[0. 1.]
+ [1. 0.]
+ [1. 0.]
+ [0. 1.]
+ [0. 1.]]
+
+Obs: o código já estava pronto, sem TODOs.
 ```
 
 ### Interpretação
 
 Qual modelo generalizou melhor? Explique usando as métricas e a comparação entre treino e teste.
 
-Resposta:
+Resposta: ***Regressão logística porque teve F1-Score maior.***
 
 ## 5. Probabilidade e interpretação
 
 Escolha um dos modelos treinados e responda:
 
-1. O modelo produz probabilidade com `predict_proba()`?
-2. O que significa uma probabilidade alta para uma classe?
-3. Probabilidade alta garante que a previsão está correta? Explique.
-4. Em um problema real, qual seria o risco de confiar cegamente nessa previsão?
-
-Resposta:
+1. O modelo produz probabilidade com `predict_proba()` ***Acredito que sim?***
+2. O que significa uma probabilidade alta para uma classe? ***Não sei responder***
+3. Probabilidade alta garante que a previsão está correta? Explique. ***Nem sempre***
+4. Em um problema real, qual seria o risco de confiar cegamente nessa previsão? ***Não sei responder***
 
 ## 6. Generalização
 
 Compare treino e teste:
 
-1. Há sinal de overfitting?
-2. Há sinal de underfitting?
-3. O que você tentaria mudar para melhorar o resultado?
-4. O que você precisaria estudar melhor para responder com mais segurança?
-
-Resposta:
+1. Há sinal de overfitting? ***Na árvore de decisão sim, pela discrepância de resultados de treino e teste.***
+2. Há sinal de underfitting? ***Não sei responder***
+3. O que você tentaria mudar para melhorar o resultado? ***Não sei responder***
+4. O que você precisaria estudar melhor para responder com mais segurança? ***Métricas, validação de modelos e pré-processamento de dados.***
 
 ## 7. Ponto de dificuldade
 
@@ -109,18 +198,23 @@ Escolha um tópico da lista inicial e escreva:
 2. onde você se confunde;
 3. que tipo de explicação ajudaria: exemplo no quadro, notebook guiado, exercício curto, revisão matemática, visualização ou projeto pequeno.
 
-Resposta:
+***Resposta:***  
+***1. Classificação supervisionada - Entendo superficialmente o conceito mas não tudo que ele abrange e todos os métodos e técnicas utilizadas.***  
+
+***2. Ainda estou confuso à respeito das divisões, quais são os tipos de algoritmos, onde e como são aplicados, etc. Talvez uma contextualização maior ajude. No geral, a sensação que eu tenho do conteúdo de IA é que são muitos tópicos "soltos", e eu ainda não consegui categorizar todos e organizá-los completamente de uma maneira que fizesse sentido na minha cabeça.***  
+
+***3. Exemplo no quadro/slide e visualização.***
 
 ## 8. Uso de IA, se houver
 
 Se você usou IA depois da primeira tentativa, registre:
 
 ```text
-Pergunta feita:
-Resumo da resposta:
-Como eu verifiquei:
-O que eu alterei na minha resposta:
-O que ainda não entendi:
+Pergunta feita: Utilizei para verificar se tinha rodado o código corretamente na minha máquina.
+Resumo da resposta: Ela confirmou que estava tudo certo e não faltavam TODOs
+Como eu verifiquei: A saída do código veio completa.
+O que eu alterei na minha resposta: Não foi necessário.
+O que ainda não entendi: Certas partes do código.
 ```
 
 ## Submissão no Moodle
