@@ -188,7 +188,7 @@ Compare treino e teste:
 1. Há sinal de overfitting? ***Na árvore de decisão sim, pela discrepância de resultados de treino e teste.***
 2. Há sinal de underfitting? ***Não sei responder***
 3. O que você tentaria mudar para melhorar o resultado? ***Não sei responder***
-4. O que você precisaria estudar melhor para responder com mais segurança? Métricas, validação de modelos e pré-processamento de dados.
+4. O que você precisaria estudar melhor para responder com mais segurança? ***Métricas, validação de modelos e pré-processamento de dados.***
 
 ## 7. Ponto de dificuldade
 
