@@ -39,6 +39,7 @@ Explique, em 8 a 12 linhas:
 Todos estes tópicos foram trabalhados, porém a sensação que tenho é que foram trabalhados em graus diferentes. Levando em conta a sensação de aprendizado que tive, e associando ao modelo Aula + Estudos dirigidos, classifiquei desta forma:
 
 Sensação de ter sido bem trabalhado nas atividades:
+
 (Aqui, entender que muitas demandaram dos alunos estudos e pesquisas para entender e escrever sobre, e a sensação é de ter visto "mais sobre")
 - vetores, matrizes e produto escalar
 - média, desvio padrão e correlação
