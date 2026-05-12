@@ -200,7 +200,9 @@ Escolha um tópico da lista inicial e escreva:
 
 ***Resposta:***
 ***1. Classificação supervisionada - Entendo superficialmente o conceito mas não tudo que ele abrange e todos os métodos e técnicas utilizadas.***
+
 ***2. Ainda estou confuso à respeito das divisões, quais são os tipos de algoritmos, onde e como são aplicados, etc. Talvez uma contextualização maior ajude. No geral, a sensação que eu tenho do conteúdo de IA é que são muitos tópicos "soltos", e eu ainda não consegui categorizar todos e organizá-los completamente de uma maneira que fizesse sentido na minha cabeça.***
+
 ***3. Exemplo no quadro/slide e visualização.***
 
 ## 8. Uso de IA, se houver
